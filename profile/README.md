@@ -3,10 +3,10 @@
 主分支是 `develop`，线上分支为 `main`.
 
 ## 如何开始工作
-1. 先将 repo `fork` 到自己账号下
+1. 先将 Repositories `fork` 到自己账号下
 2. 然后开新分支进行开发
-3. 开发完毕后 push 到自己的 repo
-4. 到 GitHub 提交 `Pull Request`，打上对应的 `label`，然后 request 对应的同事 review
+3. 开发完毕后 push 到自己的 Repositories
+4. 到 GitHub 提交 `Pull Request`
 
 ### Commit 格式
 can
