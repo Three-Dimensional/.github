@@ -2,6 +2,9 @@
 
 开发环境主分支是 `develop`，生产环境分支为 `main`.
 
+## 编码规范
+- https://github.com/airbnb/javascript#types
+
 ## 如何开始工作
 1. 先将 Repositories `fork` 到自己账号下
 2. 然后开新分支进行开发
