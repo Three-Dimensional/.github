@@ -29,16 +29,9 @@ style: 调整格式
 ```
 scope（可选）:
  比如fix涉及的范围 组件名、文件名等等逗号分隔
-
 例子：
 ```log
 Integrate immutable.js (A,B,C)
 
 https://trello.com/c/yIglLjvq
 ```
-
-```shell
-# add it to profile(如：~/.zshrc)
-alias gclc='git commit -v --reset-author -c `git log --pretty=%H -n1`'
-```
-使用 [Commitizen](https://github.com/commitizen/cz-cli) 来帮你写 commit message
