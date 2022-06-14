@@ -1,6 +1,6 @@
 ## Hi 看看工作流程 👋
 
-主分支是 `develop`，线上分支为 `main`.
+开发环境主分支是 `develop`，生产环境分支为 `main`.
 
 ## 如何开始工作
 1. 先将 Repositories `fork` 到自己账号下
