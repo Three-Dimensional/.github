@@ -13,8 +13,6 @@
 
 ## Hi 看看工作流程 👋
 
-开发环境主分支是 `develop`，生产环境分支为 `main`.
-
 ## 编码规范
 - JS: https://github.com/airbnb/javascript#types
 - CSS: http://getbem.com/naming/
@@ -52,3 +50,6 @@ Integrate immutable.js (A,B,C)
 
 https://trello.com/c/yIglLjvq
 ```
+
+## 部署
+- 更新tags 自动部署
